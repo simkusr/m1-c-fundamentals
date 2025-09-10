@@ -16,14 +16,14 @@ Focus: Syntax, memory, pointers, structs, I/O, debugging.
 - File parser (text/binary)
 
 ## Resources:
-- Books:
+### Books:
 - The C Programming Language by K&R
 - Expert C Programming by Peter van der Linden
-- Online Tutorials:
+### Online Tutorials:
 - Learn-C.org (interactive exercises)
 - TutorialsPoint C programming
-- Tools:
+### Tools:
 - gcc, gdb, valgrind
 - Linux terminal (Ubuntu/Debian)
-- Optional Bootcamp:
+### Optional Bootcamp:
 - Udemy 'C Programming For Beginners' (highly rated)
